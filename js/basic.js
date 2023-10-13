@@ -116,7 +116,7 @@ const buildChart = async () =>{
             title: "Population data chart",
             type: "line",
             data: chart_data,
-            height: 450,
+            height: 454,
             colors: ['#eb5146']
     
         })
